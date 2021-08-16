@@ -13,6 +13,6 @@ utilize libraries easily. This excludes C/C++ based implementations (one can
 disagree on this). If there's an implementation that meets these conditions, I
 wanted to just utilize that, but I couldn't find one.
 
-Hence, write my one one. In order to have rich controls, GTK seems a natural
+Hence, write my own one. In order to have rich controls, GTK seems a natural
 choice. Rust seems to have a good GTK binding. Here, i3-bar alternative written
 in Rust using GTK.
