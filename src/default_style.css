@@ -1,0 +1,11 @@
+* {
+  border-radius: 0;
+}
+
+.workspace-focused {
+  border-bottom: 3px solid #ffeb3b;
+}
+
+.workspace-urgent {
+  border-bottom: 3px solid #bd2c40;
+}
